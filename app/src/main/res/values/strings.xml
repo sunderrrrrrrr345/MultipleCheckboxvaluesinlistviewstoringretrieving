@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Multiple Checkbox values in listview storing &amp; retrieving</string>
+
+        <string-array
+            name="Mobile_OS">
+            <item>Android</item>
+            <item>IOS</item>
+            <item>Windows</item>
+            <item>Bada</item>
+            <item>Ubuntu Touch</item>
+            <item>Firefox</item>
+            <item>Salfish</item>
+            <item>Tizen</item>
+
+        </string-array>
+
+
+</resources>
